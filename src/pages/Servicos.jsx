@@ -1,11 +1,10 @@
 export default function Servicos() {
   return (
     <section className="pagina">
-      <h1>Nossos serviços</h1>
-
+      <h1>Nossas ofertas</h1>
       <p>
-        Conheça os serviços e recursos que disponibilizamos
-        para nossos visitantes.
+        Confira nossos pacotes de viagens nacionais e internacionais
+        e encontre o destino ideal para suas próximas férias!
       </p>
     </section>
   );

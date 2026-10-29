@@ -1,12 +1,13 @@
 export default function Sobre() {
   return (
-    <section className="pagina">
-      <h1>Sobre nós</h1>
+    <main className="pagina">
+      <h1>Destinos</h1>
 
       <p>
-        Esta página apresenta informações sobre nosso site,
-        nossa proposta e nossos objetivos.
+        Descubra destinos incríveis para suas próximas férias!
+        Encontre opções de viagens nacionais e internacionais
+        para planejar sua próxima aventura.
       </p>
-    </section>
+    </main>
   );
 }
